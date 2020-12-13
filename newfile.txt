@@ -1,1 +1,1 @@
-bash: echo.: command not found
+Hello! new word
